@@ -1,0 +1,38 @@
+{
+  "name": "PRINT QUEST - เกมภาพพิมพ์ ป.4",
+  "short_name": "PRINT QUEST",
+  "description": "เกมศิลปะเรื่องภาพพิมพ์สำหรับนักเรียนชั้นประถมศึกษาปีที่ 4 เล่นได้บนมือถือ แท็บเล็ต คอมพิวเตอร์ และทีวี",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#fff8e8",
+  "theme_color": "#ff5fa2",
+  "lang": "th-TH",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
